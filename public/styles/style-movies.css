@@ -1,0 +1,35 @@
+body {
+  background-color: #9c683431;
+  /*border: 1px solid blue;*/
+  display: flex;
+  flex-direction: column;
+}
+
+h2 {
+  /*border: 1px solid red;*/
+  color: #ec7263;
+  font-family: Helvetica;
+  font-size: 50px;
+  padding-left: 30px;
+}
+
+ul li h4 {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: #ec7263;
+}
+
+ul li {
+  font-family: Helvetica;
+  font-size: 12px;
+  color: gray;
+}
+
+#go-back {
+  color: #c19a6b;
+  position: relative;
+  align-items: center;
+  /*border: 1px solid green;*/
+  text-decoration: none;
+  padding-left: 30px;
+}
